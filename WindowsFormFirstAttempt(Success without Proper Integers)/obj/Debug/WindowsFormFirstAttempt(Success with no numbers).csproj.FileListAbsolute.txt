@@ -1,0 +1,12 @@
+C:\Users\i_miz\source\repos\C# Sucess\WindowsFormFirstAttempt(Success without Proper Integers)\bin\Debug\WindowsFormFirstAttempt.exe.config
+C:\Users\i_miz\source\repos\C# Sucess\WindowsFormFirstAttempt(Success without Proper Integers)\bin\Debug\WindowsFormFirstAttempt.exe
+C:\Users\i_miz\source\repos\C# Sucess\WindowsFormFirstAttempt(Success without Proper Integers)\bin\Debug\WindowsFormFirstAttempt.pdb
+C:\Users\i_miz\source\repos\C# Sucess\WindowsFormFirstAttempt(Success without Proper Integers)\obj\Debug\WindowsFormFirstAttempt(Success with no numbers).csprojAssemblyReference.cache
+C:\Users\i_miz\source\repos\C# Sucess\WindowsFormFirstAttempt(Success without Proper Integers)\obj\Debug\WindowsFormFirstAttempt.Form1.resources
+C:\Users\i_miz\source\repos\C# Sucess\WindowsFormFirstAttempt(Success without Proper Integers)\obj\Debug\WindowsFormFirstAttempt.Form2.resources
+C:\Users\i_miz\source\repos\C# Sucess\WindowsFormFirstAttempt(Success without Proper Integers)\obj\Debug\WindowsFormFirstAttempt.Form3.resources
+C:\Users\i_miz\source\repos\C# Sucess\WindowsFormFirstAttempt(Success without Proper Integers)\obj\Debug\WindowsFormFirstAttempt.Properties.Resources.resources
+C:\Users\i_miz\source\repos\C# Sucess\WindowsFormFirstAttempt(Success without Proper Integers)\obj\Debug\WindowsFormFirstAttempt(Success with no numbers).csproj.GenerateResource.cache
+C:\Users\i_miz\source\repos\C# Sucess\WindowsFormFirstAttempt(Success without Proper Integers)\obj\Debug\WindowsFormFirstAttempt(Success with no numbers).csproj.CoreCompileInputs.cache
+C:\Users\i_miz\source\repos\C# Sucess\WindowsFormFirstAttempt(Success without Proper Integers)\obj\Debug\WindowsFormFirstAttempt.exe
+C:\Users\i_miz\source\repos\C# Sucess\WindowsFormFirstAttempt(Success without Proper Integers)\obj\Debug\WindowsFormFirstAttempt.pdb

@@ -1,0 +1,12 @@
+C:\Users\i_miz\source\repos\WindowsFormFirstAttempt\bin\Debug\WindowsFormFirstAttempt.exe.config
+C:\Users\i_miz\source\repos\WindowsFormFirstAttempt\bin\Debug\WindowsFormFirstAttempt.exe
+C:\Users\i_miz\source\repos\WindowsFormFirstAttempt\bin\Debug\WindowsFormFirstAttempt.pdb
+C:\Users\i_miz\source\repos\WindowsFormFirstAttempt\obj\Debug\WindowsFormFirstAttempt.csprojAssemblyReference.cache
+C:\Users\i_miz\source\repos\WindowsFormFirstAttempt\obj\Debug\WindowsFormFirstAttempt.Form1.resources
+C:\Users\i_miz\source\repos\WindowsFormFirstAttempt\obj\Debug\WindowsFormFirstAttempt.Properties.Resources.resources
+C:\Users\i_miz\source\repos\WindowsFormFirstAttempt\obj\Debug\WindowsFormFirstAttempt.csproj.GenerateResource.cache
+C:\Users\i_miz\source\repos\WindowsFormFirstAttempt\obj\Debug\WindowsFormFirstAttempt.csproj.CoreCompileInputs.cache
+C:\Users\i_miz\source\repos\WindowsFormFirstAttempt\obj\Debug\WindowsFormFirstAttempt.exe
+C:\Users\i_miz\source\repos\WindowsFormFirstAttempt\obj\Debug\WindowsFormFirstAttempt.pdb
+C:\Users\i_miz\source\repos\WindowsFormFirstAttempt\obj\Debug\WindowsFormFirstAttempt.Form2.resources
+C:\Users\i_miz\source\repos\WindowsFormFirstAttempt\obj\Debug\WindowsFormFirstAttempt.Form3.resources
